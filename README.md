@@ -1,5 +1,4 @@
 ---
----
 
 <div>
 <h2 align="center">Hi there 👋</h2>
@@ -10,17 +9,17 @@
   </div>
   
   <li>
-    <b>🌱 </b>Currently pursuing my Masters in Data Science at Stevens Institute of Tech.
+    <b>📖 </b>Master's Graduate in Data Science from Stevens Institute of Tech.
   </li>
   <li>
-    <b>🤝 </b>Looking to collaborate on project ideas, feel free to connect
+    <b>🔎 </b>Looking for Data oriented job opportunities (Data Science & ML)
   </li>
   <li>
-    <b>🔎 </b>Actively looking for job opportunities in fields, related to Data Science and ML
+    <b>🤝 </b>Looking to collaborate on interesting project ideas, feel free to connect
   </li>
   <li>
-    <b>📫 </b>You can reach me on LinkedIn
-  </li><br>
+    <b>📫 </b>Reach me out on LinkedIn
+  </li>
   </div>
 <div>
 
@@ -29,9 +28,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin logo" />
   </a>
 </div>
+<br>
 
 ---
----
+
 
 ###
 
@@ -105,7 +105,6 @@
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
 </div>
 
----
 ---
 
 ###
