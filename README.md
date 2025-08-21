@@ -43,63 +43,56 @@
 <h2 align="center">My Tech Stack 🤖 (frequently used)</h2>
 
 ###
-
 <div align="center">
-  <!-- Programming Language -->
-  <p>Programming Language</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <br></br>
-  <!-- Python Libraries -->
-  <p>Python Libraries</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <br></br>
-  <!-- Cloud & Automation Tools -->
-  <p>Cloud & Automation Tools</p>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <br></br>
-  <!-- Version Control -->
-  <p>Version Control</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/bitbucket/original-wordmark.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/jira/original-wordmark.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/kubernetes/plain-wordmark.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <br></br>
+  <table border="1" cellspacing="10" cellpadding="10">
+    <!-- Programming Language -->
+    <tr>
+      <td>Programming Language</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+        <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
+      </td>
+    </tr>
+    <!-- Python Libraries -->
+    <tr>
+      <td>Python Libraries</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+        <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo" />
+        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo" />
+      </td>
+    </tr>
+    <!-- Cloud & Automation Tools -->
+    <tr>
+      <td>Cloud & Automation Tools</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
+        <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo" />
+        <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+        <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
+        <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo" />
+      </td>
+    </tr>
+    <!-- Version Control -->
+    <tr>
+      <td>Version Control</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+        <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
+        <img src="https://devicon-website.vercel.app/api/bitbucket/original-wordmark.svg" height="40" alt="bitbucket logo" />
+        <img src="https://devicon-website.vercel.app/api/jira/original-wordmark.svg" height="40" alt="jira logo" />
+        <img src="https://devicon-website.vercel.app/api/kubernetes/plain-wordmark.svg" height="40" alt="kubernetes logo" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
