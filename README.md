@@ -12,7 +12,7 @@ The right column contains the "Tools & Technology" section.
 <h2 align="center">About Me 👨‍💻</h2>
 <ul>
 <li>
-<b>💼</b> Ex-Data Developer at ADP
+<b>💼</b> Data Developer at ADP
 </li>
 <li>
 <b>📖</b> MS Data Science Graduate from Stevens Institute of Tech.
