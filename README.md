@@ -91,9 +91,7 @@ The right column contains the "Tools & Technology" section.
 <h2 align="center">Stats are IMPORTANT 🚀 (they keep me moving)</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nihar371&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nihar371&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="top-langs graph" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nihar371&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false&order=3" height="150" alt="streak graph" />
 <br>
 <img src="https://github-profile-trophy.vercel.app?username=nihar371&theme=dracula&column=-1&row=1&no-bg=true&no-frame=true&order=4" alt="trophy graph" />
 </div>
